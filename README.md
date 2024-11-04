@@ -16,7 +16,8 @@ VALID FOR ALL BOUNTIES
 ## Airdrops in ALGO tokens for each transaction on the bridge that is pushed through one of the Bounty produced tools or applications. 50,000 total $ALGO allocated for this initiative.
 
 # To participate developers should clone the repository and work locally and when done submit a PR (pull request) via this repository which will be reviewed by the MessinaOne Team.
-# git clone https://github.com/MessinaOne2024/MessinaOne_Code-Quest-2024.git
+# Fork this repository on your github account then 
+# git clone your-forked-repo-name
 # git checkout -b your-new-branch-name
 # git add .
 # git commit -m "your changes notes"
