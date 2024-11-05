@@ -13,7 +13,8 @@ For many bounties (like the arbitrage bot or stablecoin swapper), By providing p
 
 # Post Bounty, User Incentive Mechanism: 
 VALID FOR ALL BOUNTIES
-## Airdrops in ALGO tokens for each transaction on the bridge that is pushed through one of the Bounty produced tools or applications. 50,000 total $ALGO allocated for this initiative.
+## Airdrops in ALGO tokens for each eligible transaction on the bridge. 50,000 total $ALGO allocated for this initiative.
+Terms and conditions around eligibility of transactions and other details will be shared in due time.
 
 # To participate developers should clone the repository and work locally and when done submit a PR (pull request) via this repository which will be reviewed by the MessinaOne Team.
 # Fork this repository on your github account then 
