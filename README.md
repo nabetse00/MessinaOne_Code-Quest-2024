@@ -15,11 +15,11 @@ All participating developers understand their valid code is open source and cons
 
 # Timeline & Bounty Rewards, Total Prize Pool of 115,000 ALGO: 
 
-###Sprint 1: Start, 11 November. Submission Deadline, 1 December.
+### Sprint 1: Start, 11 November. Submission Deadline, 1 December.
 1. Token Bridge Transfer - 15,000 ALGO
 2. Arbitrage Bot - 25,000 ALGO
 
-###Sprint 2: Start, 2 December. Submission Deadline, 22 December.
+### Sprint 2: Start, 2 December. Submission Deadline, 22 December.
 3. Yield Farming Optimizer - 25,000 ALGO
 4. Governance Token Staker - 25,000 ALGO
 5. Stablecoin Swapper - 25,000 ALGO
