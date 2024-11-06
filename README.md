@@ -10,11 +10,29 @@ The core focus of most bounties involves automating a process that either improv
 Developers should ensure that transactions across blockchains are seamless, including handling potential issues with gas fees, transaction speed, # and compatibility between chains.
 ### Monitor Real-Time Data: 
 For many bounties (like the arbitrage bot or stablecoin swapper), By providing practical solutions to improve cross-chain interoperability, these bounty programs will not only demonstrate the power of the Messina SDK but also foster the development of innovative tools in the blockchain ecosystem.
+### Public Good & Open Source:
+All participating developers understand their valid code is open source and considered public good, and to be added to the Messina Docs as sample code to be used by fellow developers and builders.
 
-# Post Bounty, User Incentive Mechanism: 
-VALID FOR ALL BOUNTIES
-## Airdrops in ALGO tokens for each eligible transaction on the bridge. 50,000 total $ALGO allocated for this initiative.
-Terms and conditions around eligibility of transactions and other details will be shared in due time.
+# Timeline & Bounty Rewards, Total Prize Pool of 115,000 ALGO: 
+
+Sprint 1: Start, 11 November. Submission Deadline, 1 December.
+1. Token Bridge Transfer - 15,000 ALGO
+2. Arbitrage Bot - 25,000 ALGO
+
+Sprint 2: Start, 2 December. Submission Deadline, 22 December.
+3. Yield Farming Optimizer - 25,000 ALGO
+4. Governance Token Staker - 25,000 ALGO
+5. Stablecoin Swapper - 25,000 ALGO
+
+Big rewards for the bounty winner and runner up, and a participation reward for all entries deemed valid by the Code Quest crew.
+Check out the individual Bounty folders for more information.
+
+## Support & Queries
+For technical queries or questions to the Messina team, join the Discord on the below link and ask for the Bounty Hunter role.
+https://discord.gg/H2RdEjThRs
+
+Be aware of any scammers and don't share information or data with anyone other than official team members.
+Official team members will NEVER DM you first, and will NEVER ask for personal information or wallet details.
 
 # To participate developers should clone the repository and work locally and when done submit a PR (pull request) via this repository which will be reviewed by the MessinaOne Team.
 # Fork this repository on your github account then 
