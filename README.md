@@ -31,7 +31,7 @@ Check out the individual Bounty folders for more information.
 For technical queries or questions to the Messina team, join the Discord on the below link and ask for the Bounty Hunter role.
 https://discord.gg/H2RdEjThRs
 
-Be aware of any scammers and don't share information or data with anyone other than official team members.
+## Be aware of any scammers and don't share information or data with anyone other than official team members.
 Official team members will NEVER DM you first, and will NEVER ask for personal information or wallet details.
 
 # To participate developers should clone the repository and work locally and when done submit a PR (pull request) via this repository which will be reviewed by the MessinaOne Team.
