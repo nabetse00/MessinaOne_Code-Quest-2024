@@ -13,19 +13,21 @@ For many bounties (like the arbitrage bot or stablecoin swapper), By providing p
 ### Public Good & Open Source:
 All participating developers understand their valid code is open source and considered public good, and to be added to the Messina Docs as sample code to be used by fellow developers and builders.
 
-# Timeline & Bounty Rewards, Total Prize Pool of 115,000 ALGO: 
+# Timeline & Bounty Rewards, Total Prize Pool of 40,000 ALGO: 
 
-### Sprint 1: Start, 11 November. Submission Deadline, 1 December.
+### Cross Chain Value Creation: Start, 11 November. Submission Deadline, 22 December.
 1. Token Bridge Transfer - 15,000 ALGO
-2. Arbitrage Bot - 25,000 ALGO
+2. Cross Chain Value Creation - 25,000
+   - Arbitrage Bot
+   - Yield Farming Optimizer
+   - Token Staker
+   - Stablecoin Swapper
+   - etc
 
-### Sprint 2: Start, 2 December. Submission Deadline, 22 December.
-3. Yield Farming Optimizer - 25,000 ALGO
-4. Governance Token Staker - 25,000 ALGO
-5. Stablecoin Swapper - 25,000 ALGO
+Be creative!
 
 Big rewards for the bounty winner and runner up, and a participation reward for all entries deemed valid by the Code Quest crew.
-Check out the individual Bounty folders for more information.
+Check out the individual Bounty folder for more information.
 
 # Support & Queries
 For technical queries or questions to the Messina team, join the Discord on the below link and ask for the Bounty Hunter role.
