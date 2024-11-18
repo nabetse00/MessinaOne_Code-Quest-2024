@@ -1,16 +1,18 @@
-# Cross-Chain Arbitrage Bot
+# Cross-Chain Utility and Value Creation
 
-## Timeline: 11-NOV until 1-DEC
+## Timeline: 11-NOV until 22-DEC 5pm EST
 
 ## Description:
-Build a bot that continuously monitors between at least 2 different blockchains (Algorand, Ethereum, Avalanche, Base, Binance Smart Chain, etc.) for arbitrage opportunities. The bot should be able to buy low on one chain and sell high on another chain, leveraging the Messina SDK for cross-chain transactions. Keep in mind to account for things like bridge fees / transaction fees / price impact etc
+Build a tool that expands on the cross chain token bridge transfer of Bounty 1. Create a cross chain value producing transation sequence between at least 2 different blockchains (Algorand, Ethereum, Avalanche, Base, Binance Smart Chain, etc.) that produces value. Leveraging the Messina SDK for cross-chain transactions, you can think of Arbitrage Trading, Stablecoin Swapping, Yield Optimizing, or Token Staking. Keep in mind to account for things like protocol fees / transaction fees / price impact etc.
+
+Be creative! 
 
 ### Requirements:
 Use the Messina SDK to initiate token transfers between networks
 Must be written in JavaScript or TypeScript
-Monitor prices across multiple chains for arbitrage opportunities. You could use the Messina One API or other sources like dex screener or derive it yourself directly on chain.
-Execute buy/sell  trades through the any SDK of your choice e.g (Uniswap SDK or Rayidum SDK etc to take advantage of price differences.
-Provide an alert or reporting system to notify users of profits and trade activity e.g (simply printing out a response on the command would suffice)
+You could use the Messina One API or other sources like dex screener or derive it yourself directly on chain.
+Execute potential buy/sell trades through any SDK of your choice e.g (Uniswap SDK or Raydium SDK etc to take advantage of price differences)
+Provide an alert or reporting mechanisms to notify users of events or activities. (simply printing out a response on the command would suffice)
 
 ### Skills: JavaScript, Messina SDK, market analysis, API integration
 
