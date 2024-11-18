@@ -17,7 +17,7 @@ All participating developers understand their valid code is open source and cons
 
 ### Cross Chain Value Creation: Start, 11 November. Submission Deadline, 22 December.
 1. Token Bridge Transfer - 15,000 ALGO
-2. Cross Chain Value Creation - 25,000
+2. Cross Chain Value Creation - 25,000 ALGO
    - Arbitrage Bot
    - Yield Farming Optimizer
    - Token Staker
