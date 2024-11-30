@@ -15,7 +15,7 @@ All participating developers understand their valid code is open source and cons
 
 # Timeline & Bounty Rewards, Total Prize Pool of 40,000 ALGO: 
 
-### Cross Chain Value Creation: Start, 11 November. Submission Deadline, 22 December.
+### Cross Chain Value Creation: Start, 11 November. Submission Deadline, 23 December.
 1. Token Bridge Transfer - 15,000 ALGO
 2. Cross Chain Value Creation - 25,000 ALGO
    - Arbitrage Bot
