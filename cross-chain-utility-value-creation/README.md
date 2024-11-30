@@ -1,6 +1,6 @@
 # Cross-Chain Utility and Value Creation
 
-## Timeline: 11-NOV until 22-DEC 5pm EST
+## Timeline: 11-NOV until 23-DEC 5pm EST
 
 ## Description:
 Build a tool that expands on the cross chain token bridge transfer of Bounty 1. Create a cross chain value producing transation sequence between at least 2 different blockchains (Algorand, Ethereum, Avalanche, Base, Binance Smart Chain, etc.) that produces value. Leveraging the Messina SDK for cross-chain transactions, you can think of Arbitrage Trading, Stablecoin Swapping, Yield Optimizing, or Token Staking. Keep in mind to account for things like protocol fees / transaction fees / price impact etc.
