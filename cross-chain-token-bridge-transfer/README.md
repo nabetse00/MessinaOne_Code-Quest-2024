@@ -1,6 +1,6 @@
 # Cross-Chain Token Bridge Transfer: Bidirectional Transfers to and from the Algorand Network
 
-## Timeline: 11-NOV until 22-DEC 5pm EST
+## Timeline: 11-NOV until 23-DEC 5pm EST
 
 ## Description: 
 Build a JavaScript application that uses the Messina SDK to automatically bridge a token from the Algorand blockchain to another network. The application should be able to trigger the bridging process to move the token from Algorand to the other network. It should confirm the transaction on the receiving network that the token was successfully bridged aka “signedVAA” and then the bridged token should be redeemed on the other network. To confirm it was successful the token and respective balance should be shown when viewing the receiving wallet on a blockchain explorer.
